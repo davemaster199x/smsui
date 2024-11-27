@@ -1,0 +1,1 @@
+ALTER TABLE `did` ADD COLUMN `api_endpoint` VARCHAR(255);
